@@ -52,13 +52,11 @@ export const Radar: FC<RadarProps> = ({ values }) => {
         scales: {
           // eslint-disable-next-line id-length
           r: {
-            max: 5,
             pointLabels: {
               display: false
             },
             ticks: {
-              display: false,
-              stepSize: 1
+              display: true
             }
           }
         }

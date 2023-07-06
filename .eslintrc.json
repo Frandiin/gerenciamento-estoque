@@ -487,7 +487,7 @@
     "array-bracket-spacing": "error",
     "array-callback-return": "error",
     "array-element-newline": ["error", "consistent"],
-    "arrow-body-style": ["error", "as-needed"],
+    "arrow-body-style": "off",
     "arrow-parens": "off",
     "arrow-spacing": "error",
     "block-scoped-var": "error",
